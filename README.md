@@ -53,7 +53,7 @@ Contributions make the open-source community a fantastic place to learn, inspire
 ## Contact
 Linkedin : https://www.linkedin.com/in/kakadeakshay/
 
-Project Link: https://github.com/akshaykakade61/Food-Corner
+Project Link: https://github.com/akshaykakade/Food-Corner
 
 ## Acknowledgements
 Java
